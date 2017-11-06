@@ -1,0 +1,52 @@
+body {
+  font-family: Verdana;
+  background-color: black;
+}
+
+.space {
+  width: 98%;
+
+}
+
+video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+  text-align: center;
+}
+
+h2 {
+  color:gray;
+  font-size: 21px;
+  text-align: center;
+}
+
+h3 {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+a {
+  color: Aquamarine;
+}
+
+p {
+  color: gray;
+  text-align: right;
+  font-size: 20px;
+}
